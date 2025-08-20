@@ -1,10 +1,18 @@
-# Hi there 👋 I'm Elsayed Ebaid  
+<h1 align="center">Hi there 👋 I'm Elsayed Ebaid</h1>
 
-📱 **Mobile Developer** | 🚀 **Flutter Enthusiast** | 💡 **Problem Solver**  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Mobile+Developer+%F0%9F%93%B1;Flutter+Enthusiast+%F0%9F%9A%80;Problem+Solver+%F0%9F%92%A1" alt="Typing SVG" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/elsayed-ebaid-flutter-development) 
-[![Email](https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white)](mailto:engelsayedebaid@gmail.com) 
-![Profile Views](https://komarev.com/ghpvc/?username=engelsayedebaid&color=blueviolet)
+<p align="center">
+  <a href="https://linkedin.com/in/elsayed-ebaid-flutter-development">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:engelsayedebaid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=engelsayedebaid&color=blueviolet" alt="Profile Views" />
+</p>
 
 ---
 
@@ -20,7 +28,7 @@
 
 ---
 
-## ⚡ Tech Stack  
+## ⚙️ Tech Stack  
 
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
@@ -37,17 +45,18 @@
 ---
 
 ## 📂 Projects  
-- 🛒 **E-Commerce App** → API integration, Firebase Auth, payments, product search, cart management.  
-- ⚽ **Sports App** → Live teams & players updates, Firebase backend.  
-- 📝 **Notes App** → Firebase + Cubit state management + Clean architecture.  
+
+- 🛒 **E-Commerce App** – Features: API integration, Firebase Auth, payments, search, cart.  
+- ⚽ **Sports App** – Real-time updates on teams & players using Firebase backend.  
+- 📝 **Notes App** – Clean architecture, Cubit state management, Firebase integration.  
 
 ---
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=engelsayedebaid&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engelsayedebaid&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=engelsayedebaid&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engelsayedebaid&layout=compact&theme=tokyonight" height="180" />
 </p>
 
 <p align="center">
@@ -56,14 +65,16 @@
 
 ---
 
-## 🎯 Certificates  
-✔️ Cross-Platform Mobile App Development with Flutter  
-✔️ Back-End Web Development with Node.js  
-✔️ Computer Networks Fundamentals  
+## 🎓 Certificates  
+
+- ✔️ Cross-Platform Mobile App Development with Flutter  
+- ✔️ Back-End Web Development with Node.js  
+- ✔️ Computer Networks Fundamentals  
 
 ---
 
-## 🌍 Languages  
+## 🌐 Languages  
+
 - English  
 
 ---
@@ -71,5 +82,5 @@
 ## 🔥 Fun Animation  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="350" />
 </p>
