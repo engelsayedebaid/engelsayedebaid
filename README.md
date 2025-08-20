@@ -18,7 +18,7 @@
 
 ## 🚀 Who Am I?
 
-<img align="right" alt="Flutter Dev" width="280" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExajg0ZTAxNndvZW4yNzUxbGRnYmJwbmU3bHBmZnhhcGRrOXJzMzV0eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" />
+
 
 - 💙 I'm a **Flutter Developer** with passion for building cross-platform mobile apps.  
 - 🎓 Currently studying at **Suez Canal University – Computers and Informatics** (2021–2025).  
